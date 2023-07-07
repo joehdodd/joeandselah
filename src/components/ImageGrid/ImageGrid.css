@@ -1,11 +1,10 @@
 .photos-wrapper {
-  margin: 0 auto;
+  margin: 0 auto 32px auto;
   width: 100%;
 }
 
 .photos-container {
   display: grid;
-  grid-template-rows: repeat(12, 1fr);
   gap: 12px;
   width: 100%;
 }
