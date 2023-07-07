@@ -1,9 +1,10 @@
 import * as React from "react";
 import ImageGrid from "./components/ImageGrid";
-import "./App.css";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Info from "./components/Info";
+
+import "./App.css";
 
 function App() {
   return (
@@ -11,8 +12,9 @@ function App() {
       <Header />
       <Hero />
       <div className="app-wrapper">
-        <ImageGrid />
         <Info />
+        <hr />
+        <ImageGrid />
       </div>
     </>
   );

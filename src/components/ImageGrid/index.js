@@ -68,8 +68,8 @@ const ImageGrid = () => {
           <div
             style={{
               height: '100%"',
-              width: "95%",
-              margin: "5% auto",
+              width: "75%",
+              margin: "4rem auto",
               padding: 32,
             }}
             ref={modalRef}
