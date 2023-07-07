@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98789d76.css",
+    "main.js": "/static/js/main.b8b97afd.js",
+    "static/js/787.ebb199e1.chunk.js": "/static/js/787.ebb199e1.chunk.js",
+    "static/media/FranklinKristin-2.jpg": "/static/media/FranklinKristin-2.479c15c8468acf3ee386.jpg",
+    "static/media/FranklinKristin-1.jpg": "/static/media/FranklinKristin-1.b5abbbc17e0db8e6f2f6.jpg",
+    "static/media/KatieDave-4.jpg": "/static/media/KatieDave-4.b08e376a9544955c0c8f.jpg",
+    "static/media/AnnaJordan-4.jpg": "/static/media/AnnaJordan-4.57d79844b61b26f71104.jpg",
+    "static/media/AnnaJordan-2.jpg": "/static/media/AnnaJordan-2.8ac1cba0d9b69d87967a.jpg",
+    "static/media/AnnaJordan-3.jpg": "/static/media/AnnaJordan-3.b28b1cb4634546997889.jpg",
+    "static/media/KatieDave-3.jpg": "/static/media/KatieDave-3.0aa52805406000ca1b4b.jpg",
+    "static/media/AnnaJoel-Hero.jpg": "/static/media/AnnaJoel-Hero.0106c23c00edd19e4852.jpg",
+    "static/media/AnnaJordan-1.jpg": "/static/media/AnnaJordan-1.59402e98f5f001045397.jpg",
+    "static/media/FranklinKristin-3.jpg": "/static/media/FranklinKristin-3.ef4820179d9daa4a297c.jpg",
+    "static/media/KatieDave-2.jpg": "/static/media/KatieDave-2.0e65acc69bf759dcc497.jpg",
+    "static/media/KatieDave-1.jpg": "/static/media/KatieDave-1.83159ebc61d567aec9c2.jpg",
+    "index.html": "/index.html",
+    "main.98789d76.css.map": "/static/css/main.98789d76.css.map",
+    "main.b8b97afd.js.map": "/static/js/main.b8b97afd.js.map",
+    "787.ebb199e1.chunk.js.map": "/static/js/787.ebb199e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98789d76.css",
+    "static/js/main.b8b97afd.js"
+  ]
+}
