@@ -14,7 +14,7 @@ const Info = () => {
         you of how special it really was.
       </p>
       <p className="info-text">
-        Interested in choosing us as your Chattanoog wedding photographers? Send
+        Interested in choosing us as your Chattanooga wedding photographers? Send
         an email to <a href="mailto:info@joeandselah.co">info@joeandselah.co</a>{" "}
         for information on packages and prices. Our packages currently start at
         $1,600.
